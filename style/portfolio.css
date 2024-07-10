@@ -36,16 +36,20 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-
 }
 .nav-title{
     font-weight: 800;
     font-size: 45px;
-    margin: 50px 200px;
+    margin: 50px 230px;
 }
 nav ul li {
     list-style: none;
-    margin-right: 51px;
+    margin-right: 50px;
+    margin-left: 120px;
+}
+
+.pf bl {
+    margin-right: 0px;
 }
 nav li a{
     text-decoration: none;
